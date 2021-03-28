@@ -1,0 +1,353 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.abc{
+    background: black;
+    opacity: 0.7;
+    text-align: center;
+    
+}
+.abc ul{
+    display: inline-flex; 
+     
+}
+.abc ul li{
+    padding: 15px;
+    width: 100px;
+    list-style: none;
+
+}
+.abc a{
+    color: #fff;
+    /* text-decoration: none; */
+}
+.def{
+    text-align: center;
+    color: #fff;
+    
+}
+.def  p{
+    padding: 7px;
+    background: blue;   
+}
+.def a{
+    color: #fff;
+    
+}
+
+.gh{
+   text-align: center; 
+padding: 10px;
+background: rgb(238, 238, 238);
+}
+.gh a{
+    color: blue;
+   
+}
+.group{
+    text-align: center;
+    padding: 30px;
+    font-size: 30px;
+    background: rgb(241, 238, 238);
+}
+.group h4{
+    color: black;
+    font-size: 1em;
+    opacity: 0.7;
+}
+.menu{
+    text-align: center;
+    margin-top: -17px;
+font-size: 1.20em;
+background: rgb(241, 238, 238);
+}
+.menu a{
+    
+    color: rgb(59, 59, 224);
+    margin-bottom: 30px;
+    font-size:1em ;
+    
+}
+ .pro{
+     text-align: center;
+     font-size: 1.5pc;
+   background: black;  
+    
+
+ }
+.pro p{
+    color: #fff;
+    font-size: 0.7em;
+    opacity: 0.7;
+}
+.pro a{
+    
+    font-size:25px ;
+    margin-top: 13px;
+    color: rgb(59, 59, 224) ;
+    
+}
+.pro h2{
+    color: #fff;
+    font-size: 2em;
+}
+.pro h3{
+    font-size: 1em;
+color: #fff;
+}
+.q{
+    text-align: center;
+    font-size: 30px;
+    background: rgb(252, 252, 252);
+    
+}
+.U{
+    background:rgb(253, 253, 253);
+    width: 660px;
+    height: 500px;
+}
+.U a{
+    text-align: center;
+       color: black;
+    font-size: 1.5em;
+
+}
+.U a p{
+    text-align: center;
+    color: black;
+    opacity: 0.7;
+
+}
+.U a h5{
+    color: rgb(59, 59, 224);
+}
+.n{
+    margin-bottom:-200px;
+    margin-left: -40px;
+}
+.s{
+    background:black;
+    width: 665px;
+    height: 500px;
+    margin-top: -500px;
+    margin-left: 680px;
+
+
+}
+.s b{
+    color: #fff;
+    font-size: 35px;
+   
+    
+}
+.s a p{
+    color:#fff;
+    text-align: center;
+    font-size: 20px;
+    opacity: 0.8;
+}
+.s h5{
+    color: rgb(59, 59, 224);
+    text-align: center;
+    font-size: 1em;
+}
+.s  h3{
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: rgb(204, 36, 36);
+    text-align: center;
+}
+.Z{
+    background:black;
+    width: 680px;
+    height: 500px;
+
+    text-align: center;
+}
+
+.Z h4{
+    font-size: 40px;
+    color: #fff;
+}
+.g{
+    font-size: 20px;
+    color: #fff;
+}
+.Z h6{
+    font-size: 20px;
+    color: rgb(136, 136, 240);
+}
+
+
+.L{
+    background:rgb(241, 241, 241);
+    width: 665px;
+    height: 500px;
+    margin-top: -500px;
+    margin-left: 680px;
+}
+.L b{
+    color: black;
+    font-size: 3em;
+    text-align: center;
+}
+.L p{
+    text-align: center;
+    color:black;
+    opacity: 0.7;
+    font-size: 1.5em;
+}
+.L h6{
+    color:rgb(59, 59, 224) ;
+    font-size: 1.3em;
+    text-align: center;
+}
+.I{
+        text-align: center;
+    color: black;
+    opacity: 0.5;
+    line-height: 1.2pc;
+}
+.I a{
+color: blue;
+}
+.b{
+   width: 680px; 
+   height: 500px;
+   text-align: center;
+   background:rgb(255, 254, 254);
+
+}
+.b h6{
+    color:  rgb(59, 59, 224);
+    font-size: 1em;
+}
+.ram{
+    font-size: 3em;
+    color: black;
+    font-weight:500;
+       
+}
+.d{
+background: rgb(231, 230, 230);
+ width: 665px; 
+height: 500px;
+margin-top:-500px ;
+margin-left:680px ;
+text-align: center;
+}
+.d h6{
+    color:rgb(59, 59, 224);
+    font-size: 1em;
+}
+.row{
+    font-size: 3em;
+    color:black ;
+}
+.ego{
+    color: black;
+}
+.A{
+    background: whitesmoke;
+    line-height: 1.2pc;
+}
+
+.E{
+    background-color:whitesmoke;
+    height: 215px;
+    width: 255px;
+    margin-left: 100px;
+    line-height: 30px;
+}
+.E ul li{
+list-style: none;
+text-align: center;
+}
+.E a{
+    color: black;
+    opacity: 0.5;
+}
+
+.Y{
+        background-color: whitesmoke;
+        height: 415px;
+        width: 255px;
+        margin-top: -215px;
+        margin-left: 355px;
+        line-height: 30px;
+}
+.Y ul li{
+    list-style: none;
+    
+}
+.Y a{
+    color: black;
+    opacity: 0.5;
+}
+.F{
+    background-color: whitesmoke;
+    height: 415px;
+    width: 255px;
+    margin-top: -415px;
+    margin-left: 555px;
+    line-height: 30px;
+}
+.F ul li{
+    list-style: none;
+}
+.F a{
+    color: black;
+    opacity: 0.5;
+}
+.Omg{
+    background-color: whitesmoke;
+    height: 415px;
+    width: 260px;
+    margin-top: -415px;
+    margin-left: 800px;
+    line-height: 30px;
+}
+.Omg ul li{
+    list-style: none;
+}
+.Omg a{
+    color: black;
+    opacity: 0.5;
+}
+.T{
+    background-color: whitesmoke;
+    height: 555px;
+    width: 250px;
+    margin-top: -418px;
+    margin-left: 1095px;
+    line-height: 30px;
+}
+.T ul li{
+    list-style: none;
+}
+.T a{
+    color: black;
+    opacity: 0.5;
+}    
+.M{
+    text-align: center;
+    color: black;
+    opacity: 0.5;
+}
+.M a{
+    color: rgb(1, 1, 252);
+    
+}
+.abd{
+    text-align: center;
+    color: black;
+    opacity: 0.5;
+}
+
+
+   
+
+
+
